@@ -1,0 +1,3 @@
+const esportes = ["Atletismo","Boxe","Ciclismo","Mergulho","Hipismo","Esgrima","Futebol","Ginástica artística","Hóquei","Pentatlo moderno","Remo","Vela","Natação","Polo aquático","Levantamento de peso","Luta livre","Luta greco-romana","Tirco com arco","Rúgbi ","Tiro","Tênis","Badminton","Basquete","Vôlei de praia","Canoagem","Ginástica rítmica","Handebol","Judô","Tênis de mesa","Taekwondo","Trampolim","Triatlo","Vôlei","Golfe","Maratona aquática"]
+
+module.exports = esportes;
