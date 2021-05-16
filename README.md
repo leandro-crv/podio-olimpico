@@ -1,5 +1,5 @@
 # podio-olimpico
-Página: https://github.com/leandro-crv/super-trunfo-paises;
+Página: https://leandro-crv.github.io/podio-olimpico/;
 
 Resumo: a página mostra os maiores vencedores dos jogos olímpicos de verão de acordo com os filtros feitos: anos, esportes e o tipo de medalha;
 
